@@ -24,11 +24,11 @@ The calculator is a user-friendly tool that provides basic arithmetic functional
 
 #### Mobile Design:
 
-<img src="designs/mobile-design.png" alt="mobile-design" width="300">
+<img src="[designs/mobile-design.png](https://github.com/alberrtval/Calculator/blob/master/designs/mobile-design.png)" alt="mobile-design" width="300">
 
 #### Desktop Design:
 
-<img src="designs/desktop-design.png" alt="desktop-design" width="500">
+<img src="[designs/desktop-design.png](https://github.com/alberrtval/Calculator/blob/master/designs/desktop-design.png)" alt="desktop-design" width="500">
 
 ### Key Features
 
